@@ -84,10 +84,8 @@ Python 3.x installed
 pip (Python package installer)
 
 2. Clone the Repository
-git clone https://github.com/your-username/credit-card-fraud-detection.git
+git clone https://github.com/Hasadhika/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
-
-(Remember to replace your-username with your actual GitHub username!)
 
 3. Set Up a Virtual Environment (Recommended)
 # For Windows
