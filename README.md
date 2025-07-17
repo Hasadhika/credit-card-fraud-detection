@@ -1,7 +1,4 @@
 💳 End-to-End Credit Card Fraud Detector
-<p align="center">
-<img src="https://i.imgur.com/kYqV2zC.png" alt="Fraud Detection App Screenshot" width="800"/>
-</p>
 
 <p align="center">
 <em>A full-stack, AI-enhanced web application for detecting fraudulent credit card transactions in real-time.</em>
@@ -37,9 +34,7 @@ Note: This is a demonstration project. The V1-V28 features are anonymized, so th
 ✅ Easy Demonstration: Includes "Normal" and "Fraud" sample data buttons to allow anyone (including recruiters!) to easily test and verify the model's functionality.
 
 Gemini AI Report in Action
-<p align="center">
-<img src="https://i.imgur.com/gA2O0sH.png" alt="Gemini AI Report Screenshot" width="600"/>
-</p>
+
 🛠️Technology                                                                                                                                                                                                  
 Backend & ML
 
